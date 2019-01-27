@@ -2,7 +2,7 @@ Create auth.js and fill
 
 ```js
 module.exports = {
-    TOKEN: "", // Bot token
+    TOKEN: "NDU1NzM0OTYwNzU0NTI0MTYw.Dy6l1w.jHAwO2ayLg-Q6w2849HJUxHqpQM", // Bot token
 
     SENTRY: "", // Sentry url for error notification
 
